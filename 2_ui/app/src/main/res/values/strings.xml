@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2_UI</string>
+    <string name="btnTxt">aaa\nvbbb\n</string>
+    <string name="btnOn">开</string>
+    <string name="btnOff">关</string>
+    <string name="boy">男</string>
+    <string name="girl">女</string>
+</resources>
