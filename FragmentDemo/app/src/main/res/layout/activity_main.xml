@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_fragment"
+        android:name="com.example.fragmentdemo.TextViewFragment"
+
+        >
+    </fragment>
+
+    <fragment
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_fragment2"
+        android:name="com.example.fragmentdemo.TextViewFragment2"></fragment>
+</LinearLayout>
